@@ -1,0 +1,17 @@
+Esp32           LCD1602 I2C
+         GPIO21-SDA
+	 GPIO22-slc
+	        +5v
+		GND
+
+	           PCM5102 DAC I2S
+	GPIO25-lCK		
+	GPIO26-BCK
+	GPIO27-DIN
+	       +5v
+	       GND
+		       
+                     InfraredIR
+	GPIO15-S		
+	       +3.3v
+               GND
